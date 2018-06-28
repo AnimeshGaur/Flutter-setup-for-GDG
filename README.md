@@ -2,4 +2,4 @@
 
 setup up for flutter app
 
-this is my first code for 
+this is my first code for flutter app
